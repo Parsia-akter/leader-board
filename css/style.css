@@ -223,7 +223,7 @@ hr{
         background-color: #fff52e;
     }
     
-    .top-player h2,.top-blog h2,.latest-course h2{
+    .latest-course h2{
         text-align: center;
     }
   }
@@ -260,6 +260,8 @@ hr{
     .container{
         width: 100%;
     }
-    
+    .top-player h2,.top-blog h2,.latest-course h2{
+        text-align: center;
+    }
     
   }
